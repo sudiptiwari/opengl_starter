@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -Wpedantic -std=c++11 -rdynamic CMakeFiles/my_project.dir/src/main.cpp.o CMakeFiles/my_project.dir/lib/glad/src/glad.c.o -o my_project/my_project  lib/glfw/src/libglfw3.a -ldl -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl 
