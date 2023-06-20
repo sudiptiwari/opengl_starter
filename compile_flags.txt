@@ -1,0 +1,4 @@
+-Iinclude/
+-Ilib/glad/include
+-Ilib/glfw/include
+-Ilib/glm
