@@ -3,8 +3,8 @@
 
 ** Requirements
 Make sure you have installed following extensions in VS Code:
-*CMake
-*CMake Tools
+- CMake
+- CMake Tools
 
 ** Build Instruction
 #+begin_src bash
