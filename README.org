@@ -1,5 +1,5 @@
 * OpenGL Starter Code
-  You may replace "my_project" with your project name or leave it as it is.
+  You may replace "my_project" in line 2 of CMakeLists.txt and consequently in the last two commands below with your own project name or leave it as it is.
 
 ** Requirements
 Make sure you have installed following extensions in VS Code:
