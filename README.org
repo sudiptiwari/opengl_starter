@@ -1,10 +1,6 @@
 * OpenGL Starter Code
   You may replace "my_project" in line 2 of CMakeLists.txt and consequently in the last two commands below with your own project name or leave it as it is.
 
-** Requirements
-Make sure you have installed following extensions in VS Code:
-- CMake
-- CMake Tools
 
 ** Build Instruction
 Go to the folder where you want to clone this repository and perform following steps:
