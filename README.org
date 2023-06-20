@@ -7,6 +7,7 @@ Make sure you have installed following extensions in VS Code:
 - CMake Tools
 
 ** Build Instruction
+Go to the folder where you want to clone this repository and perform following steps:
 #+begin_src bash
 git clone --recursive --depth 1 https://github.com/sudiptiwari/opengl_starter.git
 #+end_src
