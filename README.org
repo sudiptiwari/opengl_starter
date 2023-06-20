@@ -29,4 +29,6 @@ cd my_project
 ./my_project
 #+end_src
 
+If you see "Hello World!" after these sequence of steps, then Congratulations, you have set up OpenGL in your device.
+
 
