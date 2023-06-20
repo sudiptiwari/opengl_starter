@@ -9,12 +9,26 @@ Make sure you have installed following extensions in VS Code:
 ** Build Instruction
 #+begin_src bash
 git clone --recursive --depth 1 https://github.com/sudiptiwari/opengl_starter.git
+#+end_src
+#+begin_src bash
 cd opengl_starter
+#+end_src
+#+begin_src bash
 mkdir build
+#+end_src
+#+begin_src bash
 cd build
+#+end_src
+#+begin_src bash
 cmake ..
+#+end_src
+#+begin_src bash
 make
+#+end_src
+#+begin_src bash
 cd my_project
+#+end_src
+#+begin_src bash
 ./my_project
 #+end_src
 
